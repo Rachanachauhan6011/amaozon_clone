@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div className='flex items-center justify-between bg-sky-950 h-12  text-white'>
-      <ul className='flex   m-4 items-center justify-center text-[13px]  '>
+      <ul className='flex   m-4 items-center justify-center text-[16px]  '>
         <li className=' hover:border-1 px-2 py-[10px] rounded-sm border-solid cursor-pointer'>All</li>
         <li className=' hover:border-1 px-2 py-[10px] rounded-sm border-solid cursor-pointer'>Fresh</li>
         <li className=' hover:border-1 px-2 py-[10px] rounded-sm  border-solid cursor-pointer'>Mx Player</li>
